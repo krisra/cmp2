@@ -1,4 +1,3 @@
 # cmp2
-Crossmedia Publishing II
-
+Crossmedia Publishing II - MMP
 *Kristof Raes*
